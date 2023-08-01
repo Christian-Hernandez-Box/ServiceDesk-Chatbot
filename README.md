@@ -110,13 +110,18 @@ my_bot.greeting()
 Expected Outcome:
 ```
 Hello! Thanks for reaching out to the ServiceDesk Bot. Before we proceed with helping you, what is your name? Christian
+
 Nice to meet you Christian! It looks like you are trying to submit a ServiceDesk ticket. Is that correct?  Yes
+
 Why are you here? My VPN doesnt work. I need help ASAP.
+
 I'm sorry to hear you're running into issues with your VPN. To help resolve this issue, can we please have you run the steps mentioned in the attached article below: 
 
 https://support.apple.com/en-us/HT201487 
 
 If additional support is required, please respond yes to this message. yes
+
 Thanks for your response. Unfortunately, at this time, I am unable to provide any support articles to assist with your request. I've gone ahead and created the following IT ticket (IT-123456). Please allow a couple minutes for a technician to reach out via ServiceDesk. Thanks for using the ServiceDesk Bot. Please reply "Quit" to end this interaction.quit
+
 Thanks for using the ServiceDesk Chatbot. Until next time!
 ```
